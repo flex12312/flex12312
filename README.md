@@ -29,7 +29,11 @@ Currently developing **Roamly** — a next-gen travel booking platform.
 
 ### 🛠 Tech Stack
 - **Languages:** C# (.NET 8/9), SQL ![.NET 8/9](https://img.shields.io/badge/.NET%208%2F9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  
 - **Architecture:** Microservices, DDD, Event-Driven (Kafka)
+  
 - **Databases:** PostgreSQL, Redis ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  
 - **DevOps:** Docker, Docker Compose, CI/CD ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
 - **Messaging:** Apache Kafka ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
